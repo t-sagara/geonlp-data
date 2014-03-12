@@ -1,0 +1,16 @@
+{
+  "identifier" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_area",
+  "internal_id" : 27,
+  "creator" : "geonlp",
+  "title" : "日本の地方・地域（2013年）",
+  "description" : "日本の地方（八地方区分）に、その下位の地域のうち天気予報や新聞記事等でよく利用されるものを追加しました。地方・地域の代表点は特に決まりがないので、おおよその領域の重心付近になるよう、地図から取得しました。\r\n",
+  "source" : "Wikipedia「日本の地域」（http://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E5%9C%B0%E5%9F%9F）\r\n気象庁「地方予報区」（http://www.jma.go.jp/jma/kishou/know/saibun/index.html）",
+  "spatial" : [ [ 127.97, 26.59 ], [ 144.25, 44.46 ] ],
+  "subject" : [ "行政地域/地域", "行政地域/地方" ],
+  "issued" : "2013-09-12 17:47:45",
+  "modified" : "2013-09-12 17:47:45",
+  "report_count" : 26,
+  "record_count" : 0,
+  "icon" : "https://geonlp.ex.nii.ac.jp/icon/user/geonlp/CIq56q.png",
+  "url" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_area/geonlp_japan_area_20130912_u.zip"
+}

@@ -1,0 +1,16 @@
+{
+  "identifier" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/world_country",
+  "internal_id" : 26,
+  "creator" : "geonlp",
+  "title" : "世界の国・地域（2013年9月）",
+  "description" : "世界の国・地域の辞書です。世界的なニュースなどで国名からおおよその場所を知るために利用できます。日本と外交関係のある国の他、同じように用いられる国や地域も一部含みます。\r\n表記は原則として外務省のホームページに従っていますが、「英国」と「イギリス」、「中華人民共和国」と「中国」のように、慣例として使われている表記も登録しています。\r\n位置は首都付近を地図から取得しました。",
+  "source" : "外務省：各国・地域情勢（http://www.mofa.go.jp/mofaj/area/）",
+  "spatial" : [ [ -175.22, -41.32 ], [ 179.18, 64.14 ] ],
+  "subject" : [ "国", "国/自治区", "国/地域" ],
+  "issued" : "2013-09-12 17:47:31",
+  "modified" : "2013-09-12 17:47:31",
+  "report_count" : 206,
+  "record_count" : 0,
+  "icon" : "https://geonlp.ex.nii.ac.jp/icon/user/geonlp/2jP1En.png",
+  "url" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/world_country/geonlp_world_country_20130912_u.zip"
+}

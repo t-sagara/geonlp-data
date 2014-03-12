@@ -1,0 +1,16 @@
+{
+  "identifier" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_station",
+  "internal_id" : 31,
+  "creator" : "geonlp",
+  "title" : "日本の鉄道駅（2012年）",
+  "description" : "日本の鉄道駅（地下鉄を含む）の辞書です。hypernymには運営者名と路線名を記載しています。「都営」ではなく「東京都」のようになっていますので注意してください。railway_typeは「鉄道区分コード」、service_provider_typeは「事業者種別コード」です。",
+  "source" : "国土数値情報「鉄道データ（平成24年度）N02-12」国土交通省（http://nlftp.mlit.go.jp/ksj/gml/datalist/KsjTmplt-N02.html）",
+  "spatial" : [ [ 127.652285, 26.193265 ], [ 145.59723, 45.4161633333333 ] ],
+  "subject" : [ "鉄道施設/鉄道駅", "鉄道施設/地下鉄駅" ],
+  "issued" : "2013-09-12 17:48:29",
+  "modified" : "2013-09-12 18:02:32",
+  "report_count" : 10341,
+  "record_count" : 0,
+  "icon" : "https://geonlp.ex.nii.ac.jp/icon/user/geonlp/tTru2O.png",
+  "url" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_station/geonlp_japan_station_20130912_u.zip"
+}

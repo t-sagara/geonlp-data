@@ -1,0 +1,16 @@
+{
+  "identifier" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_oaza",
+  "internal_id" : 30,
+  "creator" : "geonlp",
+  "title" : "日本の大字（2012年）",
+  "description" : "日本の大字の辞書です。2012年調査の時点で存在した大字を収録しており、過去に消滅したものは含まれていません。\r\n大字名は「街区レベル位置参照情報」および「大字・町丁目位置参照情報」から字名フィールドを選択し、ルールによって大字部分を切り出しています（たとえば「一ツ橋一丁目」という字名から「一ツ橋」）。\r\n代表点の座標は、その大字に含まれる字の代表点を流用しています（たとえば「一ツ橋」の代表点は「一ツ橋一丁目」の座標と同じ）。そのため、大字の領域のやや偏った位置にある場合があります。\r\ncode欄の「isj」は、「大字・町丁目位置参照情報」に含まれる12桁の「大字町丁目コード」です。「丁目」などをまとめて大字を抽出した場合、町丁目コードと重複しないよう、下3桁は「999」に変更してあります。原則として、年度が変わっても同じ大字には同じコードが振られますが、変更される場合もあります。\r\n読みの情報は元データ同様含みません。\r\n\r\n次のサイトのアイコンを利用しています。\r\nMaps Icons Collection http://mapicons.nicolasmollet.com/",
+  "source" : "国土交通省位置参照情報「街区レベル位置参照情報平成24年」「大字・町丁目位置参照情報平成24年」（http://nlftp.mlit.go.jp/isj/）",
+  "spatial" : [ [ 123.00434, 24.060641 ], [ 145.796036, 45.522159 ] ],
+  "subject" : [ "居住地名/大字" ],
+  "issued" : "2013-09-12 17:48:19",
+  "modified" : "2014-01-15 14:37:52",
+  "report_count" : 0,
+  "record_count" : 143189,
+  "icon" : "https://geonlp.ex.nii.ac.jp/icon/user/geonlp/bmiCOW.png",
+  "url" : "https://geonlp.ex.nii.ac.jp/dictionary/geonlp/japan_oaza/geonlp_japan_oaza_20140115_u.zip"
+}
